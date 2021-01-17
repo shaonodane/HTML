@@ -191,11 +191,11 @@ charset 常用的值有：GB2312，BIG5，GBK和UTF-8，其中UTF-8也被称作�
 ### 4.2 推荐安装的软件
 
 ```
-Chinese(Simplified)Language Pack for VS Code           中文（简体）语言包
-Open in Browser												右键选择浏览器打开html文件（Alt + B）
-JS-CSS-HTML Formatter									每次保存，都会自动格式化 js css 和 html 代码
-Auto Rename Tag												自动重命名配对的 HTML/XML 标签
-CSS Peek 															追踪至样式
+Chinese(Simplified)Language Pack for VS Code          中文（简体）语言包
+Open in Browser																			  右键选择浏览器打开html文件（Alt + B）
+JS-CSS-HTML Formatter									  							每次保存，都会自动格式化 js css 和 html 代码
+Auto Rename Tag																				自动重命名配对的 HTML/XML 标签
+CSS Peek 																							追踪至样式
 ```
 
 ## 5. HTML 常用标签
